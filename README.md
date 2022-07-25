@@ -1,2 +1,2 @@
 # Seaborn-Exercise
-A comprehensive exercise on seaborn
+A comprehensive solution for seaborn exercise
